@@ -11,3 +11,20 @@ alert(sum)
 
 nums.reduce( (acc,c) => acc + c, 0  )
 
+// Other ways to count
+
+//example 
+function countDevelopers(list) {
+    let europeanJSDev = 0;
+    for(let i = 0; i < list.length; i++){
+      
+    if (list[i].continent === 'Europe' && list[i].language === 'JavaScript'){
+        europeanJSDev++
+        }
+    }
+    return europeanJSDev
+}
+
+//code snippet
+
+europeanJSDev++
