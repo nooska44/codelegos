@@ -1,0 +1,5 @@
+document.querySelector('h2').innerText = temp
+
+//select where the dom specifically where in the html 
+//what are you going to put there? eg innerText 
+// what you are putting there eg. the current temp value
