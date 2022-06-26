@@ -1,6 +1,0 @@
-document.querySelector('#finalRose').addEventListener('click', hide)  //add a smurf to run hide
-
-function hide(){
-	document.querySelector("#claire").style.display = 'none'   //style.display to none removes it. Used id to identify the image to remove
-	document.querySelector("#sharleen").style.display = 'none'
-}
