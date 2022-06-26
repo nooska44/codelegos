@@ -1,0 +1,12 @@
+  function compareArray(arr){                           //function as normal
+    if (arr[0] < arr[arr.length -1]){
+      alert('Hi')
+    } else if (arr[0] > arr[arr.length -1]){
+      alert("Bye")
+    } else {
+      alert("we close in an hour")
+    }
+    
+  }
+  
+  compareArray([10, 4, 6, 10])                        //inside the call use array square brackets
