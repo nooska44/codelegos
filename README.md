@@ -1,4 +1,8 @@
 # codelegos
 
-- [sort Array By a Specific Character](https://github.com/nooska44/codelegos/blob/d1bedc41719719af78bf9551d673581a21ae5a24/javascriptLegos/js/sortArrayWithSpecificCharacter.js#L1) return arr.sort((a, b) => a.charCodeAt([a.length-1]) - b.charCodeAt([b.length-1]))
-- [sort Numbers In an Array](https://github.com/nooska44/codelegos/blob/d1bedc41719719af78bf9551d673581a21ae5a24/javascriptLegos/js/sortNumbersInArray#L1) let numLowToHigh = numbers.sort((a, b) => a - b)
+
+
+### Sort Arrays
+- [Sort Arrays into its Parts](https://github.com/nooska44/codelegos/blob/71c57bca3b05bb83d1eb7099f2ba753ac6ede804/javascriptLegos/js/sortArrIntoParts.js#L1)    let n=[]; walk.map(v=>{ if (v==='n')n.push(1);
+- [Sort Array By a Specific Character](https://github.com/nooska44/codelegos/blob/d1bedc41719719af78bf9551d673581a21ae5a24/javascriptLegos/js/sortArrayWithSpecificCharacter.js#L1) return arr.sort((a, b) => a.charCodeAt([a.length-1]) - b.charCodeAt([b.length-1]))
+- [Sort Numbers In an Array](https://github.com/nooska44/codelegos/blob/d1bedc41719719af78bf9551d673581a21ae5a24/javascriptLegos/js/sortNumbersInArray#L1) let numLowToHigh = numbers.sort((a, b) => a - b)
