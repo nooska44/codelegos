@@ -1,4 +1,5 @@
 # codeLegos
+I am building my own code library to reinforce and play with JS. I am adding snippets of code to help me on my journey, I hope it helps you on yours!
 
 ### Calling Functions
 - [Assigning a function call to a variable](https://github.com/nooska44/codelegos/blob/f8e0885ca498be404b6fabd2359b2bc4fabda2c1/javascriptLegos/js/functionInAVariableDeclaration.js#L7) let returnedVal = multiplyThreeNums(2,3,2)
