@@ -15,6 +15,7 @@ Array.from(contestants).forEach(element => element.addEventListener('click', che
 
 ### Reduce Method
 - [Create a counter using the reduce method](https://github.com/nooska44/codelegos/blob/f8e0885ca498be404b6fabd2359b2bc4fabda2c1/javascriptLegos/js/createCounter.js#L3) let sum = nums.reduce( (acc,c) => acc + c, 0 )
+- [For loop with additional steps - squaring numbers in the array and then reducing it to 1 number](https://github.com/nooska44/codelegos/blob/a14a2475525b20384d3822fffe15c34cffbf4f8a/javascriptLegos/js/reduceForLoop.js#L1) return nums.reduce(function(sum, n){return (n*n) + sum}, 0)  
 
 ### Sort Arrays
 - [Sort Arrays into its Parts](https://github.com/nooska44/codelegos/blob/71c57bca3b05bb83d1eb7099f2ba753ac6ede804/javascriptLegos/js/sortArrIntoParts.js#L1)    let n=[]; walk.map(v=>{ if (v==='n')n.push(1);
